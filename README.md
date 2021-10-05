@@ -1,1 +1,1 @@
-<p align="center"> <img src="gagan.png" alt="gittest"/></p>
+<p align="center"> <img src="gagan.png" alt="git"/></p>
