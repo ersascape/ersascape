@@ -1,6 +1,6 @@
 <h1 align="center">Gagan Malvi</h1>
 
-<p align="left"> <a href="https://twitter.com/malviscape" target="blank"><img src="https://img.shields.io/twitter/follow/gmlvi?logo=twitter&style=for-the-badge" alt="gmlvi" /></a> 
+<p align="left"> <a href="https://twitter.com/malviscape" target="blank"><img src="https://img.shields.io/twitter/follow/malviscape?logo=twitter&style=for-the-badge" alt="gmlvi" /></a> 
 <a href="https://forum.xda-developers.com/m/malvigagan.8323550" target="blank"><img src="https://img.shields.io/badge/XDA-Profile-green?style=for-the-badge" alt="Gagan's XDA Profile"/></a></p><br>
 
 I am an 📱 AOSP Platform Developer with BSP development experience.
