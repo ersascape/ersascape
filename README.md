@@ -7,7 +7,7 @@
 
 I am an 📱 AOSP Platform Developer with BSP development experience.
   
-- 🔭 I’m currently working on [aftermarket development for the Teracube 2e](https://github.com/teracube-mt6765-devs)
+- 🔭 I’m currently working on [the Teracube 2e](https://github.com/teracube-mt6765-devs) and [the Redmi K30 4G](https://github.com/aosp-phoenix)
 - 📦 I love playing around with different operating systems and embedded platforms
 - 😄 Pronouns: he/him/his
 - 📝 I regularly write articles on [my blog](https://malvi.me/posts)
