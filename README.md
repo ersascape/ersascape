@@ -8,7 +8,7 @@
 I am an 📱 AOSP Platform Developer with BSP development experience.
   
 - 🔭 I’m currently working on [the Teracube 2e](https://github.com/teracube-mt6765-devs) and [the Redmi K30 4G](https://github.com/aospa-phoenix)
-- 👨‍💻 Firmware Engineer at Teracube Inc., and spearheading Teracube Open Devices
+- 👨‍💻 Firmware Engineer at [Teracube Inc.](https://myteracube.com), and spearheading Teracube Open Devices
 - 📦 I love playing around with different operating systems and embedded platforms
 - 😄 Pronouns: he/him/his
 - 🧑‍💼 I am actively looking for internships
