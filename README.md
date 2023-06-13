@@ -11,7 +11,6 @@ I am an 📱 AOSP Platform Developer with BSP development experience.
 - 👨‍💻 Currently Site Reliability Engineer Intern at [Luganodes](https://luganodes.com), ex-Firmware Engineer at [FloMobility](https://github.com/flomobility) and [Teracube-Inc](https://github.com/Teracube-Inc)
 - 📦 I love playing around with different operating systems and embedded platforms
 - 😄 Pronouns: he/him/his
-- 🧑‍💼 I am actively looking for internships
 - 📝 I regularly write articles on [my blog](https://malvi.me/posts)
   
 <h3 align="left">Connect with me:</h3>
