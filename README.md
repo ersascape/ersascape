@@ -9,7 +9,7 @@
 
 I am an 📱 AOSP Platform Developer with BSP development experience.
   
-- 🔭 I’m currently working on [the Redmi K30 4G](https://github.com/aospa-phoenix) and the POCO F1, and have previously worked on the [Teracube 2e](https://github.com/teracube-mt6765-devs)
+- 🔭 I’m currently working on [the Redmi K30 4G](https://github.com/aospa-phoenix) and the POCO F1, and have previously worked on the [Teracube 2e](https://github.com/teracube-mt6765-devs), Teracube One, Redmi 9 Power, Redmi Note 4X and the Redmi 1S.
 - 👨‍💻 I am actively looking for **full-time work** and **6-month internships** beginning from January 2024. I am also open to freelance projects.
 - 🧑‍💼 Previously worked as Site Reliability Engineer Intern at [Luganodes](https://luganodes.com), ex-Firmware Engineer at [FloMobility](https://github.com/flomobility) and [Teracube-Inc](https://github.com/Teracube-Inc)
 - 📦 I love playing around with different operating systems and embedded platforms
