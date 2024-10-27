@@ -1,6 +1,6 @@
 <h1 align="center">Gagan Malvi</h1>
 
-> Services hosted on malvi.tech and related domains/subdomains are currently down until further notice.
+> Services hosted on malvi.tech and related domains/subdomains are currently being migrated to ersa.dev.
 
 <p align="center"> <a href="https://twitter.com/malviscape" target="blank"><img src="https://img.shields.io/twitter/follow/malviscape?logo=twitter&style=for-the-badge" alt="gmlvi" /></a> 
 <a href="https://forum.xda-developers.com/m/malvigagan.8323550" target="blank"><img src="https://img.shields.io/badge/XDA-Developers-yellow?style=for-the-badge" alt="Gagan's XDA Profile"/></a>
