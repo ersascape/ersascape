@@ -7,19 +7,17 @@
 <a href="https://malvi.me" target="blank"><img src="https://img.shields.io/badge/Android-Platform%20Developer-green?style=for-the-badge" alt="tag" /></a>
 </p><br>
 
-I am an 📱 AOSP Platform Developer with BSP development experience.
+I am an 📱 Android Platform Engineer.
   
-- 🔭 I’m currently working on [the Redmi K30 4G](https://github.com/aospa-phoenix) and the POCO F1, and have previously worked on the [Teracube 2e](https://github.com/teracube-mt6765-devs), Teracube One, Redmi 9 Power, Redmi Note 4X and the Redmi 1S.
-- 👨‍💻 I am actively looking for **full-time work**. I am also open to freelance projects.
-- 🧑‍💼 Currently working as an Analyst at [HSBC](https://hsbc.co.in). Previously worked as Site Reliability Engineer Intern at [Luganodes](https://luganodes.com), ex-Firmware Engineer at [FloMobility](https://github.com/flomobility) and [Teracube-Inc](https://github.com/Teracube-Inc)
-- 📦 I love playing around with different operating systems and embedded platforms
+- 🔭 I’m currently working as an AOSP Engineer at Euler Motors. 
+- 🧑‍💼 Previously worked as an Analyst at [HSBC](https://hsbc.co.in). was an active contributor to [Elements91](https://elements91.com), ex-Firmware Engineer at [FloMobility](https://github.com/flomobility) and [Teracube-Inc](https://github.com/Teracube-Inc)
+- 💻 Toying around with hardware and computing platforms on different architectures is fun! Currently working on the [Mecha Comet](https://mecha.so) on the side! ☄️
 - 😄 Pronouns: he/him/his
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ersascape" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Twitter.svg" alt="gmlvi" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/gaganmalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Linkedin.svg" alt="gaganmalvi" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/gaganmalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Instagram.svg" alt="gaganmalvi" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@malvigagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malvigagan" height="30" width="30" /></a>
 </p>
 
