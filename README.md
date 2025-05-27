@@ -11,9 +11,4 @@ I am an 📱 Android Platform Engineer.
 - 🧑‍💼 Previously worked as an Analyst at [HSBC](https://hsbc.co.in). was an active contributor to [Elements91](https://elements91.com), ex-Firmware Engineer at [FloMobility](https://github.com/flomobility) and [Teracube-Inc](https://github.com/Teracube-Inc)
 - 💻 Toying around with hardware and computing platforms on different architectures is fun! Currently working on the [Mecha Comet](https://mecha.so) on the side! ☄️
 - 😄 Pronouns: he/him/his
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ersascape" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Twitter.svg" alt="gmlvi" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/gaganmalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Linkedin.svg" alt="gaganmalvi" height="30" width="30" /></a>&nbsp;&nbsp;
-</p>
+- ✉️ You can contact me at [gagan@ersa.dev](mailto:gagan@ersa.dev)
