@@ -16,5 +16,4 @@ I am an 📱 Android Platform Engineer.
 <p align="left">
 <a href="https://twitter.com/ersascape" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Twitter.svg" alt="gmlvi" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/gaganmalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/gaganmalvi/graphics/main/Linkedin.svg" alt="gaganmalvi" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@malvigagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malvigagan" height="30" width="30" /></a>
 </p>
